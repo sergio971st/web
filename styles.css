@@ -1,0 +1,56 @@
+dt {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  font-style: italic;
+  font-family: cursive;
+}
+
+body{
+  overflow: auto;
+  background: url(http://st2.depositphotos.com/2010295/5735/v/950/depositphotos_57355207-stock-illustration-computer-symbol-abstract-background.jpg) repeat-y rgba(0,0,255,0.5);
+  background-size: 100%;
+}
+
+h2 {
+  text-align: left;
+  font-style: italic;
+  color: rgba(0,0,255,0.7);
+  font-size: 17px;
+}
+
+div {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px 10px;
+}
+img {
+  height: 200px;
+  float: left;
+  margin: 15px;
+}
+.image {
+  float: left;
+  width: 250px;
+  border-color: rgba(0, 0, 0, 0)
+}
+.main {
+  background-color: rgba(255, 0, 0, 0.7);
+}
+.education {
+  background-color: rgba(255, 128, 0, 0.7);
+}
+.hobbies {
+  background-color: rgba(255, 255, 0, 0.7);
+}
+.achievements {
+  background-color: rgba(0, 255, 0, 0.7);
+}
