@@ -40,7 +40,7 @@ img {
 .image {
   display: inline-block;
   width: 250px;
-  border-color: rgba(0, 0, 0, 0)
+  border-color: rgba(0, 0, 0, 0);
 }
 .main {
   display: inline-block;
